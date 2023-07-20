@@ -37,4 +37,7 @@
     .mobile-menu .about-button button {
         width: 100%;
     }
+    .open {
+        display: block;
+    }
 }
