@@ -1,0 +1,40 @@
+.mobile-menu {
+    display: none;
+}
+
+@media screen and (max-width: 730px) {
+    .nav-bar {
+        padding: 1.5rem 10vw;
+    }
+    .nav-item {
+        display: none;
+    }
+    .about-button {
+        display: none;
+    }
+    .mobile-menu-icon {
+        display: block;
+    }
+    .mobile-menu-icon button {
+        background-color: transparent;
+        cursor: pointer;
+    }
+    .mobile-menu ul {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        padding-bottom: 1rem;
+    }
+    .mobile-menu .nav-item {
+        display: block;
+        padding-top: 1.2rem;
+    }
+    .mobile-menu .about-button {
+        display: block;
+        padding: 1.2rem 2rem;
+    }
+    
+    .mobile-menu .about-button button {
+        width: 100%;
+    }
+}

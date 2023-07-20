@@ -23,3 +23,7 @@
     font-size: 1.15rem;
     color: #75A9CF;
 }
+
+.mobile-menu-icon {
+    display: none;
+}
