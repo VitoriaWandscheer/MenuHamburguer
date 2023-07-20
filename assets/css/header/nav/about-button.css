@@ -1,0 +1,12 @@
+.about-button button {
+    border: none;
+    background-color: #C3A57F;
+    padding: 8px 30px;
+    border-radius: 5px;
+}
+
+.about-button button a {
+    color: #113E80;
+    font-weight: bold;
+    font-size: 1.15rem;
+}   

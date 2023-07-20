@@ -1,0 +1,8 @@
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.logo h1 {
+    color: #C3A57F;
+}
