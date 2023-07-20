@@ -5,8 +5,13 @@
     border-radius: 5px;
 }
 
+.about-button button:hover {
+    background-color: #75A9CF;
+    cursor: pointer;
+}
+
 .about-button button a {
     color: #113E80;
     font-weight: bold;
     font-size: 1.15rem;
-}   
+}
